@@ -1,0 +1,4 @@
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.GreeterApp\UWPDIDemo.GreeterApp.csproj;x86
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\UWPDIDemo.Interfaces.csproj;neutral
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\UWPDIDemo.Interfaces.csproj;neutral
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Services\UWPDIDemo.Services.csproj;neutral

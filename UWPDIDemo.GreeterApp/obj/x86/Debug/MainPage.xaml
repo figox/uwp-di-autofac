@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="UWPDIDemo.GreeterApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWPDIDemo.GreeterApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Button x:ConnectionId='1' Content="Hi" Width="150" Height="80" Name="Hi"                  />
+            <Button x:ConnectionId='2' Content="Bye" Width="150" Height="80" Name="Bye"                   />
+            <TextBlock x:ConnectionId='3' Name="Greet" Text="" />
+        </StackPanel>
+    </Grid>
+</Page>
+

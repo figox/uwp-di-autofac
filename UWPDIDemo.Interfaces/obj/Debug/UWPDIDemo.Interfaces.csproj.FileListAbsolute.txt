@@ -1,0 +1,16 @@
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\bin\Debug\UWPDIDemo.Interfaces.dll
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\bin\Debug\UWPDIDemo.Interfaces.pdb
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\bin\Debug\UWPDIDemo.Interfaces.pri
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\UWPDIDemo.Interfaces.dll
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\UWPDIDemo.Interfaces.pdb
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\priconfig.xml
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\priconfig.xml.intermediate
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\layout.resfiles
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\layout.resfiles.intermediate
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\resources.resfiles
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\resources.resfiles.intermediate
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\pri.resfiles
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\pri.resfiles.intermediate
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\qualifiers.txt
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\obj\Debug\MultipleQualifiersPerDimensionFound.txt

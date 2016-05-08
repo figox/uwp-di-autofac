@@ -1,0 +1,4 @@
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\UWPDIDemo.Interfaces.csproj;neutral
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Interfaces\UWPDIDemo.Interfaces.csproj;neutral
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Services\UWPDIDemo.Services.csproj;neutral
+C:\Users\ataborda\OneDrive\Demos\UWPDIDemo\UWPDIDemo.Test\UWPDIDemo.Test.csproj;x86
